@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Unity HubからEditorとプロジェクトを管理する画面">
+  <rect width="1000" height="600" rx="30" fill="#f7f7f2"/>
+  <g font-family="Hiragino Sans, Yu Gothic, sans-serif">
+    <rect x="100" y="70" width="800" height="460" rx="26" fill="#ffffff" stroke="#d8dee4" stroke-width="4"/>
+    <rect x="100" y="70" width="190" height="460" rx="26" fill="#123b4f"/>
+    <rect x="100" y="70" width="190" height="460" rx="26" fill="#123b4f"/>
+    <rect x="120" y="120" width="150" height="44" rx="12" fill="#2a9d8f"/>
+    <rect x="120" y="188" width="150" height="44" rx="12" fill="#ffffff" opacity="0.16"/>
+    <rect x="120" y="256" width="150" height="44" rx="12" fill="#ffffff" opacity="0.16"/>
+    <text x="195" y="150" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff">Projects</text>
+    <text x="195" y="218" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff">Installs</text>
+    <text x="195" y="286" text-anchor="middle" font-size="22" font-weight="800" fill="#ffffff">Learn</text>
+    <text x="350" y="140" font-size="34" font-weight="800" fill="#123b4f">Unity Hub</text>
+    <rect x="350" y="185" width="470" height="72" rx="14" fill="#f7f7f2" stroke="#d8dee4" stroke-width="3"/>
+    <text x="382" y="230" font-size="24" font-weight="700" fill="#123b4f">Unity Editor 2022 LTS</text>
+    <rect x="705" y="203" width="90" height="36" rx="18" fill="#167246"/>
+    <text x="750" y="228" text-anchor="middle" font-size="18" font-weight="800" fill="#ffffff">Install</text>
+    <rect x="350" y="292" width="470" height="72" rx="14" fill="#f7f7f2" stroke="#d8dee4" stroke-width="3"/>
+    <text x="382" y="337" font-size="24" font-weight="700" fill="#123b4f">Unity Sprint Project</text>
+    <rect x="705" y="310" width="90" height="36" rx="18" fill="#1f6f78"/>
+    <text x="750" y="335" text-anchor="middle" font-size="18" font-weight="800" fill="#ffffff">Open</text>
+    <path d="M594 258v34" stroke="#f4a261" stroke-width="8" stroke-linecap="round"/>
+    <polygon points="594,294 574,270 614,270" fill="#f4a261"/>
+  </g>
+</svg>

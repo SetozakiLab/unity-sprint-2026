@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="担当範囲の図解">
+  <rect width="900" height="540" rx="28" fill="#f7f7f2"/>
+  <g font-family="Hiragino Sans, Yu Gothic, sans-serif">
+    <rect x="70" y="80" width="320" height="360" rx="22" fill="#ffffff" stroke="#2a9d8f" stroke-width="6"/>
+    <rect x="510" y="80" width="320" height="360" rx="22" fill="#ffffff" stroke="#f4a261" stroke-width="6"/>
+    <circle cx="230" cy="150" r="42" fill="#2a9d8f"/>
+    <circle cx="670" cy="150" r="42" fill="#f4a261"/>
+    <text x="230" y="159" text-anchor="middle" font-size="28" font-weight="800" fill="#ffffff">上原</text>
+    <text x="670" y="159" text-anchor="middle" font-size="28" font-weight="800" fill="#ffffff">五輪</text>
+    <text x="230" y="230" text-anchor="middle" font-size="32" font-weight="800" fill="#123b4f">始める前</text>
+    <text x="230" y="274" text-anchor="middle" font-size="32" font-weight="800" fill="#123b4f">保存する後</text>
+    <text x="230" y="334" text-anchor="middle" font-size="24" font-weight="700" fill="#1f6f78">環境構築 / Git / GitHub</text>
+    <text x="670" y="230" text-anchor="middle" font-size="32" font-weight="800" fill="#123b4f">Unityの中で</text>
+    <text x="670" y="274" text-anchor="middle" font-size="32" font-weight="800" fill="#123b4f">実際に作る</text>
+    <text x="670" y="334" text-anchor="middle" font-size="24" font-weight="700" fill="#b45309">Editor / C# / 操作</text>
+    <path d="M394 260h112" stroke="#123b4f" stroke-width="7" stroke-linecap="round"/>
+    <polygon points="506,260 482,244 482,276" fill="#123b4f"/>
+  </g>
+</svg>
